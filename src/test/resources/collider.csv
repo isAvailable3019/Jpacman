@@ -1,0 +1,3 @@
+Collider,Player,Player,Player,Ghost,Pellet
+Collide,Ghost,Pellet,nothing,Player,Player
+Consequence,die,get point,nothing,die,get point
